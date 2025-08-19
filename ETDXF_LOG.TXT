@@ -1,0 +1,27 @@
+ETAP to AutoCAD Converter Version 2.0
+Log Created On: Date = 11/23/2024 6:01:29 PM
+
+Following DXF Files have been created:
+
+DXFStruct: GetDXFCharPosNum: Unable to find the Item BLOCK_RECORD.
+
+DXFStruct: GetDXFCharPosNum: Unable to find the Item BLOCK.
+
+	1. F:\ETAP 1901\PROJECT100\PROJECT100.DXF
+DXFStruct: GetDXFCharPosNum: Unable to find the Item BLOCK_RECORD.
+
+DXFStruct: GetDXFCharPosNum: Unable to find the Item BLOCK.
+
+	2. F:\ETAP 1901\PROJECT100\PROJECT100_Network1.DXF
+DXFStruct: GetDXFCharPosNum: Unable to find the Item BLOCK_RECORD.
+
+DXFStruct: GetDXFCharPosNum: Unable to find the Item BLOCK.
+
+	3. F:\ETAP 1901\PROJECT100\PROJECT100_Network2.DXF
+DXFStruct: GetDXFCharPosNum: Unable to find the Item BLOCK_RECORD.
+
+DXFStruct: GetDXFCharPosNum: Unable to find the Item BLOCK.
+
+	4. F:\ETAP 1901\PROJECT100\PROJECT100_Network3.DXF
+DXF Files Created.
+
