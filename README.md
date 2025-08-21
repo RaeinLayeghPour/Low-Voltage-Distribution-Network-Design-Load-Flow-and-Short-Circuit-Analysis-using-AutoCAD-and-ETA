@@ -40,4 +40,5 @@ Created by **Raein Layegh Pour**
 
 ---
 
-⭐ If you found this project useful, please consider giving it a star on GitHub!
+If you found this project useful, please consider giving it a star on GitHub!
+
