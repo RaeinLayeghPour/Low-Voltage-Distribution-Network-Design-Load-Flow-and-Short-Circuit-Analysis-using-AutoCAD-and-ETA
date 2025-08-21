@@ -1,4 +1,4 @@
-# Low Voltage Distribution Network Design & Load Flow Analysis
+# Low Voltage Distribution Network Design, Load Flow, and Short Circuit Analysis
 
 ## Overview  
 This project demonstrates the complete workflow of designing and analyzing a **1000 kVA, 415 V low-voltage distribution network**. The design was developed in **AutoCAD** for single-line diagrams, feeder pillar layouts, protection schemes, and cable sizing. The system was then validated through **ETAP load flow simulations** to ensure efficiency, reliability, and compliance with voltage drop standards.  
@@ -40,5 +40,6 @@ Created by **Raein Layegh Pour**
 ---
 
 If you found this project useful, consider giving it a star on GitHub!
+
 
 
